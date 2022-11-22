@@ -1,0 +1,16 @@
+.sign-upload canvas {
+	margin-right: 5px;
+}
+
+.sign-upload canvas, .sign-upload img {
+	border: 1px solid gray;
+}
+
+.sign-upload .buttons {
+	display: inline-block;
+	margin-left: 5px;
+}
+
+.sign-upload .buttons button {
+	margin-right: 5px;
+}

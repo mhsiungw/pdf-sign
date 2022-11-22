@@ -1,0 +1,19 @@
+.pdf-upload {
+	display: flex;
+	align-items: flex-start;
+	gap: 10px;
+}
+
+.pdf-upload input {
+	margin-bottom: 5px;
+	margin-left: 5px;;
+}
+
+.pdf-upload img {
+	margin-top: 26px;
+	object-fit: contain;
+}
+
+.pdf-upload canvas, .pdf-upload img {
+	border: 1px solid gray;
+}
